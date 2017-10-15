@@ -15,7 +15,7 @@ Drumlet is a cost-efficient method for drummers to play the drums anywhere, anyt
 [Click Here](https://www.youtube.com/watch?v=5jdy1lruVHc&feature=youtu.be)
 
 ## Inspiration 
-When brainstorming a hack to work on, a groupmate played a video of a [comedy](https://www.youtube.com/watch?v=A_kloG2Z7tU) scene of Rowan Atkinson playing the air drum. Given the limited resources we have (Two Arduinos and a number of sensors which can be only counted with one hand), we then decided to work on this hack to make an air drum with whatever we can find. Although there are air drums in the market today, a pair of air drums costs about 157 Euros which is about [250 SGD](http://aerodrums.com/shop-policies/). Our main focus was then to make a pair of air drums which was cost efficient such that individuals who would like to get the feel of playing the drums without spending a bomb can get to enjoy the drumming experience.
+When brainstorming a hack to work on, a groupmate played a [comedy](https://www.youtube.com/watch?v=A_kloG2Z7tU) video of a scene where Rowan Atkinson plays the air drum. Given the limited resources we have (Two Arduinos and a number of sensors which can be only counted with one hand), we then decided to work on this hack to make an air drum with whatever we can find. Although there are air drums in the market today, a pair of air drums costs about 157 Euros which is about [250 SGD](http://aerodrums.com/shop-policies/). Our main focus was then to make a pair of air drums which was cost efficient such that individuals who would like to get the feel of playing the drums without spending a bomb can get to enjoy the drumming experience.
 
 ## What It Does
 A Drumlet is an air drum that is able to play eight unique drum sounds
